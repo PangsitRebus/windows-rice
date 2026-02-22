@@ -6,7 +6,14 @@ https://github.com/karlstav/cava/tree/master/cava_win
 # momoi-say
 ![Image](https://github.com/user-attachments/assets/c2eb9046-e3f0-4615-8c39-569875ddd8b7)
 
- -  YOUTUBE
+ -  YOUTUBE :
 https://youtu.be/aLza6myk4KM?si=X-ZoJjMJZKipugDL
- - GIT
+ - GIT :
 https://github.com/Mon4sm/momoisay
+# Termina-toys
+![Image](https://github.com/user-attachments/assets/20ac84ea-2e5e-4d5f-ba55-91891c2beadc)
+
+GIT: https://github.com/seebass22/terminal-toys
+# Chrome
+gruvbox slate: https://chromewebstore.google.com/detail/giokfhncgfjkoamdbhfhfhgpikaioccc?utm_source=item-share-cb
+memento minimalistic homepage : https://chromewebstore.google.com/detail/feiooleecmhaceomemdjchnkahocjgjg?utm_source=item-share-cb

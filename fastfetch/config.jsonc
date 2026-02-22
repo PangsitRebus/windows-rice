@@ -1,0 +1,80 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "type": "file",
+    "source": "C:/Users/dnshw/.config/fastfetch/ascii.txt",
+    "chafa": {
+      "fgOnly": false
+    },
+    "color": {
+      "1": "#FFFBE8",
+      "2": "#FFFBE8",
+      "3": "#FFFBE8",
+      "4": "#FFFBE8",
+      "5": "#FFFBE8",
+      "6": "#FFFBE8",
+      "7": "#FFFBE8",
+      "8": "#FFFBE8",
+      "9": "#FFFBE8"
+    },
+    "padding": {
+      "top": 1,
+      "right": 3
+    }
+  },
+  "display": {
+    "separator": " "
+  },
+  "modules": [
+    "break",
+    {
+      "type": "title",
+      "color": {
+        "user": "",
+        "at": "",
+        "host": ""
+      }
+    },
+    {
+      "type": "custom",
+      "format": "─────────────────────────",
+      "outputColor": "20"
+    },
+    {
+      "type": "custom",
+      "key": "🐧 ◉ Arch Linux x86_64",
+      "keyColor": "#F0E9E9"
+    },
+    {
+      "type": "custom",
+      "key": "🔳 ◉ Linux 6.15.6-arch1-1",
+      "keyColor": "#F0E9E9"
+    },
+    {
+      "type": "custom",
+      "key": "📦 ◉ 1050(pacman)",
+      "keyColor": "#F0E9E9"
+    },
+    {
+      "type": "custom",
+      "key": "🐳 ◉ Hyperland",
+      "keyColor": "#F0E9E9"
+    },
+    {
+      "type": "custom",
+      "key": "🗃️ ◉ Terminal",
+      "keyColor": "#F0E9E9"
+    },
+    {
+      "type": "custom",
+      "format": "─────────────────────────",
+      "outputColor": "20"
+    },
+
+    "break",
+    {
+      "type": "",
+      "symbol": "circle"
+    }
+  ]
+}

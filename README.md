@@ -19,4 +19,4 @@ GIT: https://github.com/seebass22/terminal-toys
  - gruvbox slate: https://chromewebstore.google.com/detail/giokfhncgfjkoamdbhfhfhgpikaioccc?utm_source=item-share-cb
  - memento minimalistic homepage : https://chromewebstore.google.com/detail/feiooleecmhaceomemdjchnkahocjgjg?utm_source=item-share-cb
 # Windows appearence
- - gruvbox dark theme : https://www.vinstartheme.com/gruvbox
+ - gruvbox dark theme : [https://www.vinstartheme.com/gruvbox](https://www.vinstartheme.com/gruvbox-theme-for-windows-10/)

@@ -16,6 +16,7 @@ https://github.com/Mon4sm/momoisay
 
 GIT: https://github.com/seebass22/terminal-toys
 # Chrome
+CHROME EXTENSIONS:
  - gruvbox slate: https://chromewebstore.google.com/detail/giokfhncgfjkoamdbhfhfhgpikaioccc?utm_source=item-share-cb
  - memento minimalistic homepage : https://chromewebstore.google.com/detail/feiooleecmhaceomemdjchnkahocjgjg?utm_source=item-share-cb
 # Windows appearence

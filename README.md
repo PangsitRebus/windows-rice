@@ -1,2 +1,2 @@
 # windows-rice
-https://github.com/user-attachments/assets/bef03e83-45b1-4c97-9001-ed7b73afa4cf
+![Image](https://github.com/user-attachments/assets/d4669401-b83f-4af9-b361-c831ff7d5192)

@@ -15,6 +15,8 @@ https://github.com/Mon4sm/momoisay
 ![Image](https://github.com/user-attachments/assets/20ac84ea-2e5e-4d5f-ba55-91891c2beadc)
 
 GIT: https://github.com/seebass22/terminal-toys
+
+ADD FILE PATH TO VARIABLE
 # Chrome
 CHROME EXTENSIONS:
  - gruvbox slate: https://chromewebstore.google.com/detail/giokfhncgfjkoamdbhfhfhgpikaioccc?utm_source=item-share-cb
